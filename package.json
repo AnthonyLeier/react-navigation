@@ -10,13 +10,13 @@
 		"lint": "eslint ."
 	},
 	"dependencies": {
-		"node-notifier": ">=8.0.1",
-		"node-fetch": ">=2.6.1",
 		"@react-native-community/masked-view": "^0.1.10",
 		"@react-navigation/bottom-tabs": "^5.7.2",
 		"@react-navigation/drawer": "^5.8.6",
 		"@react-navigation/native": "^5.7.1",
 		"@react-navigation/stack": "^5.7.1",
+		"node-fetch": ">=2.6.1",
+		"node-notifier": ">=8.0.1",
 		"react": "16.13.1",
 		"react-native": "0.63.2",
 		"react-native-gesture-handler": "^1.7.0",
